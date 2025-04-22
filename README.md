@@ -16,5 +16,5 @@
 ## Estadísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serch-pa&layout=compact&langs_count=8"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serch-pa&layout=compact&langs_count=10"/> 
 </p>
